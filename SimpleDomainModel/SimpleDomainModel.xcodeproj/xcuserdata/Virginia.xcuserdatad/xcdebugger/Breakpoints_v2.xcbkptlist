@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/SimpleDomainModelTests.swift"
+            timestampString = "529659186.0128"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/PersonTests.swift"
+            timestampString = "530148065.199468"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "testAdultAgeRestrictions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.PersonTests.testAdultAgeRestrictions() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Virginia/Documents/info449_au17/domain-model/uw-ios-simpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/PersonTests.swift"
+                  timestampString = "530086046.506022"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Bool in SimpleDomainModelTests.PersonTests.testAdultAgeRestrictions() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Virginia/Documents/info449_au17/domain-model/uw-ios-simpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/PersonTests.swift"
+                  timestampString = "530086046.509562"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/JobTests.swift"
+            timestampString = "530141514.444738"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "testSalariedRaise()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/JobTests.swift"
+            timestampString = "530141514.445227"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "testSalariedRaise()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.JobTests.testSalariedRaise() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Virginia/Documents/info449_au17/domain-model/uw-ios-simpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/JobTests.swift"
+                  timestampString = "530086033.285294"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Bool in SimpleDomainModelTests.JobTests.testSalariedRaise() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Virginia/Documents/info449_au17/domain-model/uw-ios-simpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/JobTests.swift"
+                  timestampString = "530086033.288265"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/JobTests.swift"
+            timestampString = "530141514.445676"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "testHourlyRaise()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.JobTests.testHourlyRaise() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Virginia/Documents/info449_au17/domain-model/uw-ios-simpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/JobTests.swift"
+                  timestampString = "530060972.580583"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Bool in SimpleDomainModelTests.JobTests.testHourlyRaise() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Virginia/Documents/info449_au17/domain-model/uw-ios-simpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/JobTests.swift"
+                  timestampString = "530060972.583503"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/JobTests.swift"
+            timestampString = "530141514.446141"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "testHourlyRaise()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.JobTests.testHourlyRaise() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Virginia/Documents/info449_au17/domain-model/uw-ios-simpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/JobTests.swift"
+                  timestampString = "530086033.292255"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "241">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 : @autoclosure () throws -&gt; Swift.Bool in SimpleDomainModelTests.JobTests.testHourlyRaise() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Virginia/Documents/info449_au17/domain-model/uw-ios-simpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/JobTests.swift"
+                  timestampString = "530086033.295282"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/JobTests.swift"
+            timestampString = "530141514.446732"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "testHourlyRaise()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/JobTests.swift"
+            timestampString = "530141514.447285"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "testHourlyRaise()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/PersonTests.swift"
+            timestampString = "530148065.200477"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "testFamilyDescription()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.FamilyTests.testFamilyDescription() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Virginia/Documents/info449_au17/domain-model/uw-ios-simpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/PersonTests.swift"
+                  timestampString = "530099729.992892"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "474">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Bool in SimpleDomainModelTests.FamilyTests.testFamilyDescription() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Virginia/Documents/info449_au17/domain-model/uw-ios-simpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/PersonTests.swift"
+                  timestampString = "530099729.998594"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/JobTests.swift"
+            timestampString = "530141514.448437"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "testJobDescription()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/PersonTests.swift"
+            timestampString = "530148065.201248"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "testPersonDescription()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
