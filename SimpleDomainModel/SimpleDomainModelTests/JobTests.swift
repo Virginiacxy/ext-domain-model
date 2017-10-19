@@ -42,7 +42,13 @@ class JobTests: XCTestCase {
         let job1 = Job(title: "Janitor", type: Job.JobType.Hourly(15.0))
         XCTAssert(job1.description == "Janitor, 15.0 per hour")
         
+        job1.raise(1.0)
+        XCTAssert(job1.description == "Janitor, 16.0 per hour")
+        
         let job2 = Job(title: "Guest Lecturer", type: Job.JobType.Salary(1000))
         XCTAssert(job2.description == "Guest Lecturer, 1000 per year")
+        
+        job2.raise(1000)
+        XCTAssert(job2.description == "Guest Lecturer, 2000 per year")
     }
 }
